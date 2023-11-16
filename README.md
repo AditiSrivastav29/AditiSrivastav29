@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AditiSrivastav
+- 👋 Hi, I’m Aditi Srivastav
 - 👀 I’m interested in web development
 - 📫 How to reach me email id - 12292000aditi@gmail.com
 
